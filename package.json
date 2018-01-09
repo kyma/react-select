@@ -15,7 +15,7 @@
   "dependencies": {
     "classnames": "^2.2.4",
     "prop-types": "^15.5.8",
-    "react-input-autosize": "https://github.com/JedWatson/react-input-autosize/tarball/198f1a1d0248a8f56d606c8261cd9a20305f494e"
+    "react-input-autosize": "https://github.com/kyma/react-input-autosize/tarball/master"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

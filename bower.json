@@ -8,7 +8,7 @@
   "moduleType": ["amd", "globals", "node"],
   "dependencies": {
     "classnames": "^2.2.0",
-    "react-input-autosize": "https://github.com/JedWatson/react-input-autosize/tarball/198f1a1d0248a8f56d606c8261cd9a20305f494e"
+    "react-input-autosize": "https://github.com/kyma/react-input-autosize/tarball/master"
   },
   "keywords": [
     "react",
